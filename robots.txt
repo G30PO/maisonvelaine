@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maisonvelaine.com/sitemap.xml
